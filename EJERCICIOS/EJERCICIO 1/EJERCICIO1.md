@@ -19,7 +19,12 @@ llame web y que sea accesible desde un navegador en el puerto 8000.**
     ![](./assets/Punto1.PNG)
 
     Creamos la imagen de docker php.
-    
+
+    ![](./assets/inpect.PNG)
+    Con docker inspect obtenemos la URL del contenedor.
+
+    ![](./assets/webfunciona.PNG)
+    Observamos que la web funciona. http://localhost:8000/
 
 
 - **Colocar en el directorio raíz del servicio web ( /var/www/html ) un sitio web donde figure el nombre de los componentes del grupo.**
