@@ -21,6 +21,8 @@
 - A las 8:40 comenzamos a hacer los ejercicios.
 - A las 8:50 hago un issue para resolver un duda. 
 - A las 9:45 acabo los ejercicios 3.
+- A las 9:57 hago mi pull request.
 
+![](assets/CP3.PNG)
 
 
