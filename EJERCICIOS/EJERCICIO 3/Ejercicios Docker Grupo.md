@@ -12,10 +12,15 @@ docker network create redbd
 contenedor se ejecutará en segundo plano, y será accesible a través del puerto 3306. (Es
 necesario definir la contraseña del usuario root y un volumen de datos persistente)
 ~~~
-docker run -d --name mariadb --network redbd -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mariadb
+adduser mariadb
+docker run -d --name mariadb --network redbd -v mariadb:/home/mariadb -e MYSQL_DATABASE=adminer -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mariadb
 ~~~
+![](assets/CP3.2.png)
 
 - Crear un contenedor con Adminer que se pueda conectar al contenedor de la BD
-
-- Comprobar que el contenedor Adminer puede conectar con el contenedor mysql abriendo
-un navegador web y accediendo a la URL: http://localhost:8080
+~~~
+docker run --link mariadb: -p 8080:8080 adminer
+~~~
+![](assets/CP3.3.png)
+- Comprobar que el contenedor Adminer puede conectar con el contenedor mysql abriendo un navegador web y accediendo a la URL: http://localhost:8080
+![](assets/CP3.4.png)

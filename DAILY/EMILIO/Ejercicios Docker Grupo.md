@@ -16,5 +16,11 @@
 - A las 10:50 acabé el primer ejercicio
 - A las 11:08 acabé el segundo ejercicio
 
+## Viernes 03/02/2023
+
+- A las 8:40 comenzamos a hacer los ejercicios.
+- A las 8:50 hago un issue para resolver un duda. 
+- A las 9:45 acabo los ejercicios 3.
+
 
 
