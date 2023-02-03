@@ -24,3 +24,6 @@
 ![](assets/dudapatri1.PNG)
 
 - A las 11:12 subo el trabajo realizado y el daily a mi rama para poder continuar posteriormente.
+
+## Viernes 03/20/2023
+- A las 8:40 nos disponemos a continuar con el trabajo del miércoles. Naturalmente, como es Lunes patricia va a realizar su trabajo en casa.
