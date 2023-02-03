@@ -63,3 +63,13 @@ llame web y que sea accesible desde un navegador en el puerto 8000.**
     Creamos el fichero de mes.php y lo visualizamos
 
 - **Borrar el contenedor.**
+
+    ```sh
+        exit
+        docker stop web
+        docker rm web
+    ```
+
+    ![](./assets/borramos.PNG)
+    
+    Borramos el contenedor.
