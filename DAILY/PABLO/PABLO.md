@@ -27,3 +27,6 @@
 
 ## Viernes 03/20/2023
 - A las 8:40 nos disponemos a continuar con el trabajo del miércoles. Naturalmente, como es Lunes patricia va a realizar su trabajo en casa.
+
+-A las 8:55 contento el issue de Emilio.
+![](./assets/issueemilio1.PNG)

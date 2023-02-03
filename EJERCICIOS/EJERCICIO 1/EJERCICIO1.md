@@ -40,8 +40,26 @@ llame web y que sea accesible desde un navegador en el puerto 8000.**
 
     ![](./assets/indexcreate.PNG)
 
+    ![](./assets/webindex.PNG)
+
     Entramos en el contenedor y creamos el fichero index.
 
 - **Colocar en ese mismo directorio raíz un archivo llamado mes.php que muestre el nombre del mes actual. Ver la salida del script en el navegador.**
 
-- **Borrar el contenedor**
+    ```sh
+        nano /var/www/html/mes.php
+    ```
+
+    ```php
+    <?php
+        echo date('F');
+    ?>
+    ```
+
+    ![](./assets/mes.PNG)
+
+    ![](./assets/mesphpview.PNG)
+
+    Creamos el fichero de mes.php y lo visualizamos
+
+- **Borrar el contenedor.**
