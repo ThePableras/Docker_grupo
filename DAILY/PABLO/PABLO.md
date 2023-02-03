@@ -36,3 +36,7 @@
 
 - A las 9:20 contesto un pr de Emilio.
 ![](./assets/emilioadminer.PNG)
+
+- A las 9:55 termino la parte de BD de mi ejercicio 1 y lo subo al pull request actual.
+
+-A las 9:58 despues de finalizar mi ejercicio, cambio a la rama pablo-rama2 para continuar con un nuevo ejercicio.
