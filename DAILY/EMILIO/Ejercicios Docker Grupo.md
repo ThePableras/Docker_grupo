@@ -22,7 +22,7 @@
 - A las 8:50 hago un issue para resolver un duda. 
 - A las 9:45 acabo los ejercicios 3.
 - A las 9:57 hago mi pull request.
-
 ![](assets/CP3.PNG)
+- A las 10:00 creo una rama en github para continuar con los siguientes ejercicios.
 
 
