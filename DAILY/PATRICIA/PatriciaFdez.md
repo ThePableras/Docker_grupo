@@ -15,11 +15,28 @@ Mi compañero Pablo R. me ha invitado a colaborar en el repositorio Docker_grupo
  
 Acepto la colaboración el día 01/02/2023 a las 9.58 am  y comienzo con la organización del proyecto.
 
+- 10.22 am:
+Corrijo el main en GitHub y mi repositorio, ya que habia comenzado la estructura sin haberse planteado previamente.
+
+![](assets/arreglo_main.png)
+
 El jefe de proyecto, Pablo, ha organizado una estructura de carpetas para llevar un registro y de las actualizaciones diarias
 
+:card_index_dividers:Docker_grupo :arrow_right: :open_file_folder: DAILY :arrow_right: :open_file_folder: PATRICIA :arrow_right: :spiral_notepad: PatriciaFdez.md y :open_file_folder: assest
 
+:card_index_dividers:Docker_grupo :arrow_right: :open_file_folder: EJERCICIOS :arrow_right: :open_file_folder: EJERCICIO 2 :arrow_right: :spiral_notepad: Ejercicio2.md y :open_file_folder: assest
 
-:card_index_dividers:Docker_grupo -> :open_file_folder:DAILY -> 
+- 10.55 am:
+
+Creo un issue con una duda que me ha surgido, ya que no soy muy conocedora de que es portainer.
+
+![](assets/issue1.png)
+
+- 10.57 am:
+
+Pablo, me responde y resuelve la issue.
+
+![](assets/issu1-respuesta.png)
 
 ### Lunes 06/02/2023 a las 13.41 am
 
@@ -37,5 +54,10 @@ Pablo hace merge pull request de su trabajo
 
 ![](assets/mergePablo1.png)
 
-- 14.22 
+- 14.22 am:
+
 Hago git en el avance de la tarea, para guardar los cambios.
+
+- 16.28 pm: 
+
+Actualizo y corrijo el archivo daily.
