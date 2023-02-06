@@ -61,3 +61,7 @@ Hago git en el avance de la tarea, para guardar los cambios.
 - 16.28 pm: 
 
 Actualizo y corrijo el archivo daily.
+
+- 18.09 pm:
+
+Actualizo el ejercicio 2
