@@ -3,7 +3,7 @@
 
 | Contenido | URL |
 | -- | --|
-| Cmatrix | https://hub.docker.com/r/westonsteimel/cmatrix |
+| Cmatrix | https://hub.docker.com/r/beezu/cmatrix |
 
 - Desplegar la aplicación cmatrix utilizando docker-compose.
 
