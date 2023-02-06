@@ -13,7 +13,7 @@ contenedor se ejecutará en segundo plano, y será accesible a través del puert
 necesario definir la contraseña del usuario root y un volumen de datos persistente)
 ~~~
 adduser mariadb
-docker run -d --name mariadb --network redbd -v mariadb:/home/mariadb -e MYSQL_DATABASE=adminer -e MYSQL_ROOT_PASSWORD=root -p 3306:3306 mariadb
+docker run -d --name mariadb --network redbd -v mariadb:/home/mariadb -e MYSQL_DATABASE=adminer -e MYSQL_ROOT_PASSWORD=root -e MYSQL_USER=admin -e MYSQL_PASSWORD=admin -p 3306:3306 mariadb
 ~~~
 ![](assets/CP3.2.PNG)
 
