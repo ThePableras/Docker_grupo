@@ -38,4 +38,4 @@ Pablo hace merge pull request de su trabajo
 ![](assets/mergePablo1.png)
 
 - 14.22 
-Hago git en el avance de la tarea.
+Hago git en el avance de la tarea, para guardar los cambios.
