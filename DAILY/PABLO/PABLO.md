@@ -63,3 +63,9 @@
 - A las 14:00 consensuamos que yo haré el ejercicio 4 de la tarea. Mientras Emilio continua haciendo el ejercicio 3 y Patricia el ejercicio 2.
 
 - A las 14:25 guardamos cambios y subimos a github la rama actual en desarrollo.
+
+## Miércoles 08/02/2023
+
+- A las 9:40 continuamos con nustras actividades diarias.
+
+- A las 10:14 termino mi ejercicio de Cmartrix (4) y procedo a subirlo con git.

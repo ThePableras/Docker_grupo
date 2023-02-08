@@ -19,8 +19,25 @@ nano /home/daw/docker-compose.yml
 
 Creamos el fichero docker-compose con la config para levantar cmatrix.
 
-Entregando los siguientes pantallazos y los comandos empleados para resolver el ejercicio:
-- Pantallazo donde se vea el fichero docker-compose.yaml .
-- Pantallazo donde se vea la aplicación funcionando. Se valorará conseguir el efecto
-Greenrain.
-- Explicar brevemente cómo funciona esta aplicación.
+```yaml
+version: '3.1'
+services:
+  cmatrix:
+    container_name: cmatrix
+    image: beezu/cmatrix
+```
+
+![](assets/yaml.png)
+
+Usamos docker compose para ejecutar el contenedor.
+```sh
+docker compose run --rm cmatrix
+```
+
+![](assets/dockercomposeup.png)
+
+![](assets/cmatrix.png)
+
+Observamos que CMATRIX funciona. Se trata de una terminal con el efecto de matrix. La cortina va cayendo con los simbolos y letras.
+
+Para volverlo a ejecutar simplemente usaríamos el comando de docker compose citado arriba para abrir el efecto.
