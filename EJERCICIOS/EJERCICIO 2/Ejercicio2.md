@@ -119,19 +119,21 @@ Procedo a crear un volumen, al que llamo portainer1
 
 ![](assets/vollista.png)
 
+Una vez creados la red y el volumen, procedo a crear un contenedor que contenga ambas, que se llamará port_cont:
 
+![](assets/cont_v_r.png)
 
+Añado el volumen portainer1
 
+![](assets/cont_v.png)
 
+Y le añado la red, que configuré anteriormente, portainer que le añado hostname p1
 
+![](assets/cont_r.png)
 
+Y ya está creado el contenedor port_cont:
 
-
-
-
-
-
-
+![](assets/port_cont.png)
 
 
 ## Bibliografía / Webgrafía

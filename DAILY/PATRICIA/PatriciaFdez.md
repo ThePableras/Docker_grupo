@@ -77,3 +77,13 @@ Le confirmo el pull request a Pablo del ejercicio 4
 
 ![](assets/pullreqejer4.png)
 
+- 10.48 am 
+Le confirmo el pull request a Emilio del ejercicio 3
+
+![](assets/pullreqejer3.png)
+
+y confirmo el merge 
+
+![](assets/mergeejer3.png)
+![](assets/mergeejer3-1.png)
+
