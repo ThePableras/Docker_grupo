@@ -91,3 +91,35 @@ Y también confirmo el merge
 -10.52 am 
 
 Finalizo el ejercicio 2
+
+- 10.56 am 
+
+Hago un pull request de mi ejercicio
+
+![](assets/mipullreqejer2.png)
+
+- 10.58 am
+
+Se ha dado cuenta de que tiene mal un ejercicio y ya habiamos hecho merge. Está deshaciendo el merge para poder modificar su error.
+
+- 11.00 am
+
+Emilio me comenta mi pull request 
+
+![](assets/emiliocomment.png)
+
+- 11.09 am
+
+Pablo crea un revert, para deshacer el merge, de su ejercicio 4
+
+![](assets/revertpablo.png)
+
+- 11.11 am 
+
+Pablo confirma mi merge del ejercicio 2 
+
+![](assets/mergeejer2.png)
+
+- 11.12 am 
+
+Actualizo mi daily del día 08/02/2023
