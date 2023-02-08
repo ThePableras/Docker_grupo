@@ -25,7 +25,7 @@
 
 - A las 11:12 subo el trabajo realizado y el daily a mi rama para poder continuar posteriormente.
 
-## Viernes 03/02/2023
+## Viernes 03/20/2023
 - A las 8:40 nos disponemos a continuar con el trabajo del miércoles. Naturalmente, como es Lunes patricia va a realizar su trabajo en casa.
 
 - A las 8:55 contento el issue de Emilio.
@@ -36,36 +36,3 @@
 
 - A las 9:20 contesto un pr de Emilio.
 ![](./assets/emilioadminer.PNG)
-
-- A las 9:55 termino la parte de BD de mi ejercicio 1 y lo subo al pull request actual.
-
-- A las 9:58 despues de finalizar mi ejercicio, cambio a la rama pablo-rama2 para continuar con un nuevo ejercicio.
-
-## Lunes 06/02/2023
-- A las 13:40 procedo a explicarle a Patricia los contenidos que hemos realizado el viernes pasado, ya que no pudo asistir a clase.
-
-- Le comento a Patricia que revise mi pull request del ejercicio1, ya que Emilio ya lo ha revisado el pasado viernes.
-![](./assets/prlunes.png)
-
-- A las 13:46 recibo el comentario de Patricia y procedo al mergeo de la tarea.
-![](./assets/prmiopatriaceptar.png)
-
-![](./assets/mergemio.png)
-
-- A las 13:48 observamos que el merge se ha producido correctamente contra el main del repositorio.
-
-![](./assets/mergehechopablo1.png)
-
-- A las 13:56 respondo el issue de Emilio.
-
-![](./assets/emilioissue2.png)
-
-- A las 14:00 consensuamos que yo haré el ejercicio 4 de la tarea. Mientras Emilio continua haciendo el ejercicio 3 y Patricia el ejercicio 2.
-
-- A las 14:25 guardamos cambios y subimos a github la rama actual en desarrollo.
-
-## Miércoles 08/02/2023
-
-- A las 9:40 continuamos con nustras actividades diarias.
-
-- A las 10:14 termino mi ejercicio de Cmartrix (4) y procedo a subirlo con git.
