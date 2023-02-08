@@ -65,3 +65,15 @@ Actualizo y corrijo el archivo daily.
 - 18.09 pm:
 
 Actualizo el ejercicio 2
+
+### Miércoles 08/02/2023
+
+-9.40 am
+En clase de despligue, retomo el ejercicio 2.
+
+- 10.16 am
+
+Le confirmo el pull request a Pablo del ejercicio 4
+
+![](assets/pullreqejer4.png)
+
