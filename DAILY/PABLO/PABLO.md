@@ -69,3 +69,11 @@
 - A las 9:40 continuamos con nustras actividades diarias.
 
 - A las 10:14 termino mi ejercicio de Cmartrix (4) y procedo a subirlo con git.
+
+![](./assets/pr2.png)
+
+- A las 10:17 una vez Patricia revisa el contenido le comento que realice ella el merge del pull request para que se familiarice con Gihub.
+
+![](./assets/patrihacemerge.png)
+
+- A las 10:20 me dispongo a revisar el ejercicio 3 de Emilio ya que tenía dificultades. Para ello hago git pull y entro en su rama del ejercicio emilio-rama1 donde sigo trabajando.
