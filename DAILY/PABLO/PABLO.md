@@ -77,3 +77,7 @@
 ![](./assets/patrihacemerge.png)
 
 - A las 10:20 me dispongo a revisar el ejercicio 3 de Emilio ya que tenía dificultades. Para ello hago git pull y entro en su rama del ejercicio emilio-rama1 donde sigo trabajando.
+
+- A las 10:45 termino de trabajar en la rama de Emilio, finalizando su trabajo. De forma que procedemos a realizar el merge de la pr que ya existía previamente.
+
+![](./assets/premiliofixed.png)
