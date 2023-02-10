@@ -32,3 +32,7 @@
 
 - A las 9:35 comenzamos a hacer los ejercicios
 - A las 10:16 comento y reviso el pull request de pablo
+
+## Viernes 10/02/2023
+- A las 8:38 empezamos a hacer los ejercicios
+- a las 9:27 arreglamos un error de GitHub.
