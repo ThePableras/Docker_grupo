@@ -69,3 +69,23 @@
 - A las 9:40 continuamos con nustras actividades diarias.
 
 - A las 10:14 termino mi ejercicio de Cmartrix (4) y procedo a subirlo con git.
+
+![](./assets/pr2.png)
+
+- A las 10:17 una vez Patricia revisa el contenido le comento que realice ella el merge del pull request para que se familiarice con Gihub.
+
+![](./assets/patrihacemerge.png)
+
+- A las 10:20 me dispongo a revisar el ejercicio 3 de Emilio ya que tenía dificultades. Para ello hago git pull y entro en su rama del ejercicio emilio-rama1 donde sigo trabajando.
+
+- A las 10:45 termino de trabajar en la rama de Emilio, finalizando su trabajo. De forma que procedemos a realizar el merge de la pr que ya existía previamente.
+
+![](./assets/premiliofixed.png)
+
+- A las 11:00 procedo a revertir mis cambios del miércoles de la rama main ya que se ha producido un error en el ejercicio.
+
+![](./assets/revertmio.png)
+
+## Viernes 10/02/2023
+
+- A las 8:46 procedo a continuar con el ejercicio 4.
