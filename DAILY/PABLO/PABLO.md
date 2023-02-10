@@ -81,3 +81,11 @@
 - A las 10:45 termino de trabajar en la rama de Emilio, finalizando su trabajo. De forma que procedemos a realizar el merge de la pr que ya existía previamente.
 
 ![](./assets/premiliofixed.png)
+
+- A las 11:00 procedo a revertir mis cambios del miércoles de la rama main ya que se ha producido un error en el ejercicio.
+
+![](./assets/revertmio.png)
+
+## Viernes 10/02/2023
+
+- A las 8:46 procedo a continuar con el ejercicio 4.
