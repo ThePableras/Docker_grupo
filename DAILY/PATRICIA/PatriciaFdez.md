@@ -123,3 +123,12 @@ Pablo confirma mi merge del ejercicio 2
 - 11.12 am 
 
 Actualizo mi daily del día 08/02/2023
+
+### Viernes 10/02/2023
+
+- 21.30 pm
+Me pongo a actualizar el repositorio y a leer y empezar la tarea 5
+
+- 23.55 pm
+
+Subo la actualización del tema 5, es un poco lioso lo cuál no he avanzado mucho hoy. Actualizo mi daily.
