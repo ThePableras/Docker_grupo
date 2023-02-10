@@ -91,3 +91,5 @@
 - A las 08:40 realizamos ciertos cambios en el branch principal (main), ya que hemos cometido ciertos errores en el merge de mi ejercicio 4. Hecho que nos lleva una hora aproximadamente.
 
 - A las 9:35 procedo a realizar ciertas mejoras en mi ejercicio 4 de Docker, en una nueva rama (pablo_rama4).
+
+- A las 9:50 me pongo con Emilio a ayudarle en su actividad.
