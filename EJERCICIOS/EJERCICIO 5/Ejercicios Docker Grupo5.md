@@ -1,5 +1,4 @@
 # Ejercicios Docker Grupo
-> Realizado por: Emilio Taibo
 
 ## Ejercicos 5 - imagen con Dockerfile
 
