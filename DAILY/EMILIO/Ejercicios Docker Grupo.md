@@ -22,7 +22,17 @@
 - A las 8:50 hago un issue para resolver un duda. 
 - A las 9:45 acabo los ejercicios 3.
 - A las 9:57 hago mi pull request.
-
 ![](assets/CP3.PNG)
+- A las 10:00 creo una rama en github para continuar con los siguientes ejercicios.
 
+## Lunes 06/02/2023
+- A las 1:40 nos ponemos con los ejercicios
 
+## Miercoles 08/02/2023
+
+- A las 9:35 comenzamos a hacer los ejercicios
+- A las 10:16 comento y reviso el pull request de pablo
+
+## Viernes 10/02/2023
+- A las 8:38 empezamos a hacer los ejercicios
+- a las 9:27 arreglamos un error de GitHub.
