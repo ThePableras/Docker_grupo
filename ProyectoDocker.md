@@ -57,29 +57,29 @@
   - Aclaración en forma de trabajo con issues/pull request.
   - Caso de [issue de Patricia](https://github.com/ThePableras/Docker_grupo/issues/1).
 
-- **Día 2**: Viernes 03/02/2023 [ACTIVIDADES 1,2,3 EN CURSO]
+- **Día 2**: Viernes 03/02/2023 *[ACTIVIDADES 1,2,3 EN CURSO]*
   - Caso de [issue 1](https://github.com/ThePableras/Docker_grupo/issues/2) e [issue 2](https://github.com/ThePableras/Docker_grupo/issues/4) de Emilio.
   - [Pull request ejercicio 1](https://github.com/ThePableras/Docker_grupo/pull/3).
   - Asignación adicional de tareas.
     - Pablo: Tarea 4.
 
-- **Día 3**: Lunes 06/02/2023 [ACTIVIDADES 2,3,4 EN CURSO]
+- **Día 3**: Lunes 06/02/2023 *[ACTIVIDADES 2,3,4 EN CURSO]*
   - Revisión de [pull request ejercicio 1](https://github.com/ThePableras/Docker_grupo/pull/3) para su aprobación por parte de todo el equipo.
   - Caso de [issue](https://github.com/ThePableras/Docker_grupo/issues/6) de Emilio.
 
-- **Día 4**: Miércoles 08/02/2023 [ACTIVIDADES 2,3,4 EN CURSO]
+- **Día 4**: Miércoles 08/02/2023 *[ACTIVIDADES 2,3,4 EN CURSO]*
   - [Pull request ejercicio 2 y aprobación](https://github.com/ThePableras/Docker_grupo/pull/8).
   - Asistir a Emilio con ejercicio 3.
   - [Pull request ejercicio 3](https://github.com/ThePableras/Docker_grupo/pull/5).
   - [Pull request ejercicio 4](https://github.com/ThePableras/Docker_grupo/pull/7).
   - Revisión y aprobación de [pull request de ejercicio 3](https://github.com/ThePableras/Docker_grupo/pull/5) y [pull request de ejercicio 4](https://github.com/ThePableras/Docker_grupo/pull/7).
 
-- **Día 5**: Viernes 10/02/2023 [ACTIVIDAD 5 EN CURSO]
+- **Día 5**: Viernes 10/02/2023 *[ACTIVIDAD 5 EN CURSO]*
   - Avance en ejercicio 5.
   - Asignación adicional de tareas
     - Emilio: Tarea 5.
  
-- **Día 6**: Sábado-Domingo 12/02/2023 [ACTIVIDAD 5 Y REMATE EN CURSO]
+- **Día 6**: Sábado-Domingo 12/02/2023 *[ACTIVIDAD 5 Y REMATE EN CURSO]*
   - Actualización asignación tarea 5.
     - Emilio: Tarea 5.
     - Patricia: Tarea 5.
