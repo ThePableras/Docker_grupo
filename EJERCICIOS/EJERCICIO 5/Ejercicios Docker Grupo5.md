@@ -70,7 +70,7 @@ Comprobamos que esté activado.
 docker ps -a
 ```
 
-![](assets/ejercicio55.png)
+![](assets/ejercicio54.png)
 
 Para poder acceder a nuestro página tenemos que comprobar cual es la ip asignada al contenedor:
 
