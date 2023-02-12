@@ -4,6 +4,8 @@
 
 ### Crear una imagen con un servidor web que sirva un sitio web
 
+> Realizado por Patricia F. y Emilio
+
 - Basar la imagen en nginx o apache
 
 - Desplegar una plantilla o un trabajo que tenga al menos, un index.html y una carpeta para estilos imagen, etc.
@@ -107,5 +109,17 @@ Comprobamos que se ha subido correctamente:
 
 ![](assets/ejercicio59.png)
 
+El enlace al repositorio DockerHub
+
+https://hub.docker.com/repository/docker/patri993/apache/general
 
 
+## Bibliografía
+
+> https://www.josedomingo.org/pledin/2016/02/ejemplos-de-ficheros-dockerfile-creando-imagenes-docker/
+
+> https://iescelia.org/ciberseguridad/serie-docker-como-crear-dockerfile/
+
+> https://www.returngis.net/2019/02/publicar-tu-imagen-en-docker-hub/
+
+> https://hub.docker.com/repository/docker/patri993/apache/general
