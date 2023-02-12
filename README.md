@@ -9,12 +9,13 @@ Actividad evaluable Docker de despliegue 2022-2023
 </head>
 <body>
     <ul>
-     <li><a href="https://github.com/ThePableras/Docker_grupo/tree/main/EJERCICIOS"> Ejercicios </a></li>
-    <li><a href="https://github.com/ThePableras/Docker_grupo/blob/main/EJERCICIOS/EJERCICIO%201/EJERCICIO1.md"> Ejercicio 1 </a></li>
-    <li><a href="https://github.com/ThePableras/Docker_grupo/blob/main/EJERCICIOS/EJERCICIO%202/Ejercicio2.md"> Ejercicio 2 </a></li>
-    <li><a href="https://github.com/ThePableras/Docker_grupo/blob/main/EJERCICIOS/EJERCICIO%203/Ejercicios%20Docker%20Grupo.md"> Ejercicio 3 </a></li>
-    <li><a href="https://github.com/ThePableras/Docker_grupo/blob/main/EJERCICIOS/EJERCICIO%204/EJERCICIO4.md"> Ejercicio 4 </a></li>
-    <li><a href="https://github.com/ThePableras/Docker_grupo/blob/main/EJERCICIOS/EJERCICIO%205/Ejercicios%20Docker%20Grupo5.md"> Ejercicio 5 </a></li>
+        <li><a href="ProyectoDocker.md"> Resumen resultados </a></li>
+        <li><a href="EJERCICIOS"> Ejercicios </a></li>
+        <li><a href="EJERCICIOS/EJERCICIO%201/EJERCICIO1.md"> Ejercicio 1 </a></li>
+        <li><a href="EJERCICIOS/EJERCICIO%202/Ejercicio2.md"> Ejercicio 2 </a></li>
+        <li><a href="EJERCICIOS/EJERCICIO%203/Ejercicios%20Docker%20Grupo.md"> Ejercicio 3 </a></li>
+        <li><a href="EJERCICIOS/EJERCICIO%204/EJERCICIO4.md"> Ejercicio 4 </a></li>
+        <li><a href="EJERCICIOS/EJERCICIO%205/Ejercicios%20Docker%20Grupo5.md"> Ejercicio 5 </a></li>
  </ul>
 </body>
 </html>
