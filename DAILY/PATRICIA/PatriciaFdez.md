@@ -128,18 +128,24 @@ Actualizo mi daily del día 08/02/2023
 
 - 21.30 pm
 
-Me pongo a actualizar el repositorio y a leer y empezar la tarea 5
+Me pongo a actualizar el repositorio, a leer y empezar la tarea 5
 
 - 23.55 pm
 
-Subo la actualización del tema 5, es un poco lioso lo cuál no he avanzado mucho hoy. Actualizo mi daily.
+Subo la actualización del tema 5, trabajo desde la rama de emilio: emilio-rama3. Actualizo mi daily.
 
 ### Sábado 11/02/2023
 
 - 15.00 pm
 
-Sigo con la tarea 5
+Sigo con la tarea 5.
 
-- 16.15 pm
-Finalizado tema 5, falta la parte del compañero. Hago commit de la tarea y actualizo mi daily.
+- 16.15 pm 
 
+Finalizado tema 5, falta la parte del compañero. Hago commit de la tarea desde la rama de mi compañero y actualizo mi daily.
+
+### Domingo 12/02/2023 
+
+- 17.55 pm
+
+Actualizo el repositorio: creo el readme, retoco el ejercicio 5 desde mi rama, actualizo el daily y hago un merge al main.
