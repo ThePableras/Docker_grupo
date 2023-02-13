@@ -152,6 +152,10 @@ Actualizo el repositorio: creo el readme, retoco el ejercicio 5 desde mi rama, a
 
 ### Lunes 13/02/2023
 
-- 18. pm
+- 18.30pm
 
 Debido a que tenia que revertir el merge del ejercicio 5 he tenido complicaciones y se me ha borrado todo el contenido. 
+
+- 19.00pm 
+
+Hago rama para revertir el merge: patri_revert y subo el ejercicio de nuevo
