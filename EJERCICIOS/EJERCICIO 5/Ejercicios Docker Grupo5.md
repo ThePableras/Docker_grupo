@@ -1,23 +1,13 @@
 # Ejercicios Docker Grupo
-<<<<<<< HEAD
-> Realizado por: Emilio Taibo
-
-## Ejercicos 5 - imagen con Dockerfile
-
-=======
 
 ## Ejercicos 5 - imagen con Dockerfile
 
 > Realizado por Patricia F. y Emilio
 
->>>>>>> 7255723565b7419f0ddb8c0a095a5761bcc33275
 ### Crear una imagen con un servidor web que sirva un sitio web
 
 - Basar la imagen en nginx o apache
 
-<<<<<<< HEAD
-- Desplegar una plantilla o un trabajo que tenga al menos, un index.html y una carpeta para estilos imagen, etc.
-=======
 - Desplegar una plantilla o un trabajo que tenga al menos, un index.html y una carpeta para estilos imagen, etc.
 
 Primero creamos nuestro entorno de trabajo, una carpeta que incluira el archivo DockerFile y la carpeta con la plantilla web.
