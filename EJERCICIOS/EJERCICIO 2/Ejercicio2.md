@@ -24,7 +24,7 @@ docker volume create portainer_v
 docker run -d -p 9000:9000 --name=portainer_c --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /volume1/docker/portainer:/portaines_v portainer/portainer-ce:latest
 
 ```
-![](assets/volumenycontenedor.png)
+![](assets/portainerc.png)
 
 La añado un directorio en el contenedor en el que irá el volumen y un puerto, en este caso 9000.
 
@@ -62,7 +62,7 @@ Mi repositorio local contiene 7 imagenes, 6 redes, 20 volumenes y 3 contenedores
 
 Comparo con la consola que lo que se muestra en el portainer va de acuerdo a mi repositorio.
 
-![](assets/portainerc.png)
+![](assets/volumenycontenedor.png)
 
 Vuelvo a portainer y voy a los contenedores
 
