@@ -49,6 +49,8 @@ Vuelvo a crear un contenedor portainer, pero lo llamo portainer1
 ```bash
 docker run -d -p 9000:9000 --name=portainer1 --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /volume1/docker/portainer:/portaines_v portainer/portainer-ce:latest
 ```
+![](assets/portainer1_comando.png)
+
 Me dirijo al navegador y me registro en portainer como admin para poder acceder a mi perfil:
 
 ![](assets/portainerweb.png)
