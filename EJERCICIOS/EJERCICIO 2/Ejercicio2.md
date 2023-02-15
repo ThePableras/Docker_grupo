@@ -21,7 +21,7 @@ Creo un volumen para portainer y creo un contenedor le añadimos la imagen que d
 ```bash
 docker volume create portainer_v
 
-sudo docker run -d -p 9000:9000 --name=portainer_c --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /volume1/docker/portainer:/portaines_v portainer/portainer-ce:latest
+docker run -d -p 9000:9000 --name=portainer_c --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v /volume1/docker/portainer:/portaines_v portainer/portainer-ce:latest
 
 ```
 ![](assets/volumenycontenedor.png)
