@@ -62,7 +62,7 @@ Mi repositorio local contiene 7 imagenes, 6 redes, 20 volumenes y 3 contenedores
 
 Comparo con la consola que lo que se muestra en el portainer va de acuerdo a mi repositorio.
 
-![](assets/volumenycontenedor.png)
+![](assets/portainerc.png)
 
 Vuelvo a portainer y voy a los contenedores
 
